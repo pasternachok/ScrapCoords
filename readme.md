@@ -1,12 +1,12 @@
 <table>
   <tr>
-    <td align="center">
+    <td valign="middle" align="center">
       <img src="https://i.imgur.com/nnpnhZg.png" width="30">
     </td>
-    <td align="center">
+    <td valign="middle" align="center">
       <h1>ScrapCoords</h1>
     </td>
-    <td align="center">
+    <td valign="middle" align="center">
       <img src="https://i.imgur.com/nnpnhZg.png" width="30">
     </td>
   </tr>
