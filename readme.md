@@ -1,8 +1,16 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://i.imgur.com/nnpnhZg.png" width="30">
-  <h1 style="margin: 0 10px;">ScrapCoords</h1>
-  <img src="https://i.imgur.com/nnpnhZg.png" width="30">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/nnpnhZg.png" width="30">
+    </td>
+    <td align="center">
+      <h1>ScrapCoords</h1>
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/nnpnhZg.png" width="30">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 Программа для расчёта координат в игре Scrap Mechanic при помощи маяков.
