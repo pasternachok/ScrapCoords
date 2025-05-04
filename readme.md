@@ -1,6 +1,6 @@
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://i.imgur.com/nnpnhZg.png" width="30">
-  <h1>ScrapCoords</h1>
+  <h1 style="margin: 0 10px;">ScrapCoords</h1>
   <img src="https://i.imgur.com/nnpnhZg.png" width="30">
 </div>
 
