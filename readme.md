@@ -1,13 +1,19 @@
 <table>
   <tr>
-    <td valign="middle" align="center">
-      <img src="https://i.imgur.com/nnpnhZg.png" width="30">
+    <td>
+      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
+        <img src="https://i.imgur.com/nnpnhZg.png" width="30">
+      </div>
     </td>
-    <td valign="middle" align="center">
-      <h1>ScrapCoords</h1>
+    <td>
+      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
+        <h1>ScrapCoords</h1>
+      </div>
     </td>
-    <td valign="middle" align="center">
-      <img src="https://i.imgur.com/nnpnhZg.png" width="30">
+    <td>
+      <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
+        <img src="https://i.imgur.com/nnpnhZg.png" width="30">
+      </div>
     </td>
   </tr>
 </table>
